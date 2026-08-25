@@ -410,3 +410,5 @@ kustomize build | kubectl apply -f -
 ## License
 
 [License](LICENSE.md)
+
+CI/CD pipeline configured with GitHub Actions.
